@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 本页正在制作！COMING SOON Powered by zerox5
 
 You can use the [editor on GitHub](https://github.com/Yamanashi339/Yamanashi339.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
